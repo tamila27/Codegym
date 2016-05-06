@@ -1,4 +1,4 @@
-package com.goit.gojavaonline.codegym;
+package com.goit.gojavaonline.codegym.practice1;
 
 /**
  * Created by tamila on 4/26/16.

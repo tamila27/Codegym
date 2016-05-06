@@ -1,5 +1,6 @@
-package com.goit.gojavaonline.codegym;
+package com.goit.gojavaonline.codegym.practice1;
 
+import com.goit.gojavaonline.codegym.practice1.MatrixSnakeTraversal;
 import org.junit.Assert;
 import org.junit.Test;
 
